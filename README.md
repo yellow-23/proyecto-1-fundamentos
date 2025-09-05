@@ -8,8 +8,8 @@ proyecto1 aestrella
 Integrantes:
 
 Cristobal Flores Villegas (NRC: 8060) 
-Francisco Morales Diaz (NRC: 8060) 
-Benjamin Peña Diaz (NRC: ) 
+Francisco Morales Diaz (NRC: ) 
+Benjamin Peña Diaz (NRC:8060) 
 
 Nombre del Juego: XXXX
 Enlace a algún sitio para poder comprender en qué consiste la versión del juego que 
