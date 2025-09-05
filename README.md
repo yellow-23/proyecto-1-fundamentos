@@ -5,16 +5,17 @@ proyecto1 aestrella
 [Enunciado Proyecto 1 (1).pdf](https://github.com/user-attachments/files/22163511/Enunciado.Proyecto.1.1.pdf)
 
 
-Integrantes:  - - - - 
-Nombre y Apellidos integrante 1 (NRC: XXXX) 
-Nombre y Apellidos integrante 2 (NRC: XXXX) 
-Nombre y Apellidos integrante 3 (NRC: XXXX) 
-Nombre y Apellidos integrante 4 (NRC: XXXX) 
-Nombre del Juego: XXXXXXXXXXXXXX 
+Integrantes:
+
+Cristobal Flores Villegas (NRC: 8060) 
+Francisco Morales Diaz (NRC: 8060) 
+Benjamin Peña Diaz (NRC: ) 
+
+Nombre del Juego: XXXX
 Enlace a algún sitio para poder comprender en qué consiste la versión del juego que 
 consideraste 
 Heurística implementada: (explicación) 
-XXXXXXXXXXXXXXXXXX . . .  
+XXXXXXXXXXXXXXXXXX 
 Estado inicial 1: XXXXX  
 N° nodos revisados A*: XXXXXX  
 N° nodos revisados BFS: XXXXXX 
