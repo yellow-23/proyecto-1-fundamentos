@@ -36,5 +36,3 @@ N° nodos revisados BFS: 233
 Estado inicial 5: N = 6 discos — A: [6, 5, 4, 3, 2, 1], B: [], C: []
 N° nodos revisados A*: 582
 N° nodos revisados BFS: 687
-
-Los 3 archivos los debes comprimir en un .zip y nombrar al archivo comprimido con el número de tu grupo. Este archivo es el que debes subir a la casilla de entrega en Canvas.
